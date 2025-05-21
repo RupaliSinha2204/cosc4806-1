@@ -6,14 +6,14 @@
 
   <body>
 
-    <h1>Login form</h1>
+    <h1>Login Form</h1>
     
     <form action=“/validate.php" method="post">
-      <Label for="username">username:</label>     
+      <label for="username">Username:</label>     
       <br>
       <input type="text" id="username" name="username">
       <br>
-      <label for="password">password:</label><br>
+      <label for="password">Password:</label><br>
       <input type="password" id="password" name="password">
       <br><br>
       <input type="submit" value="Submit">
