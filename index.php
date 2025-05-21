@@ -1,8 +1,14 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <title>PHP Test</title>
+    <title>Rupali</title>
   </head>
+  
   <body>
-    <?php echo '<p>Hello World</p>'; ?> 
+    
+    <h1>Assignment 1</h1>
 
+    <p><a href="/login.php">Click here t login</a></p>
+    
+  </body>
 </html>
